@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "price": 59999,
+    "category": "Laptop",
+    "image": "images/laptop.jpg",
+    "description": "High-performance laptop for developers."
+  },
+  {
+    "id": 2,
+    "name": "Gaming Laptop",
+    "price": 74999,
+    "category": "Laptop",
+    "image": "images/gaming-laptop.jpg",
+    "description": "Powerful gaming laptop."
+  },
+  {
+    "id": 3,
+    "name": "Smartphone X",
+    "price": 29999,
+    "category": "Phone",
+    "image": "images/phone.jpg",
+    "description": "Latest smartphone with advanced camera."
+  },
+  {
+    "id": 4,
+    "name": "Wireless Headphones",
+    "price": 3999,
+    "category": "Accessories",
+    "image": "images/headphones.jpg",
+    "description": "Noise-cancelling headphones."
+  },
+  {
+    "id": 5,
+    "name": " Watch",
+    "price": 4999,
+    "category": "Accessories",
+    "image": "images/watch.jpg",
+    "description": "Fitness tracking smartwatch."
+  },
+  {
+    "id": 6,
+    "name": "Speaker",
+    "price": 2499,
+    "category": "Accessories",
+    "image": "images/speaker.jpg",
+    "description": "Portable wireless speaker."
+  }
+]
